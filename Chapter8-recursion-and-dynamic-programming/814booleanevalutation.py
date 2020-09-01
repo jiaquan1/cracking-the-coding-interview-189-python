@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 def count_eval(expr,value,memo=None):
     if len(expr)%2 ==0:
         return Exception("Invalid Input")
@@ -67,3 +68,5 @@ if __name__ == "__main__":
   unittest.main()
         
         
+=======
+>>>>>>> 45e00abd356375b5fb384fa23f21f34195b99a48
