@@ -1,6 +1,5 @@
 
-#leetcode 49
-import collections
+#leetcode 33 and leetcode 81
 def rotated_search(array, target,leftix= 0, rightix = None):
     if rightix == None:
         rightix = len(array)
