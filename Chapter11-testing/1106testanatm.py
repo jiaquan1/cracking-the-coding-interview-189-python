@@ -1,7 +1,8 @@
 
-# To test a pen, ask "who, what, where, when, how, why" of a problem. 
-# consider what the different components of the object or problem
-# test both intended and unintended scenarios
+# To test a atm, who, what to do, what tools
+# Logging in, withdrawing, depositing, checking balance, transferring
+# check all error cases (low balance, new account, nonexisting account, and so on)
+# automated testing of all the standard scenarios
     
     
 
